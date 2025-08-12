@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oOSA8BtloGllUqYYfK8z" name="data_ingestion_agent">
-    <mxGraphModel dx="1718" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2219" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,14 +186,14 @@
           <mxGeometry x="-309.75" y="1868" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CO-I_zU5IWeLc__GjT8n-26" value="DynamoDB" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fillColor=light-dark(#4c71f2, #1d293b);strokeColor=#FFFFFF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=10;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;gradientColor=light-dark(#3332b7, #436697);gradientDirection=south;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="2210" width="80" height="80" as="geometry" />
+          <mxGeometry x="-760" y="2200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CO-I_zU5IWeLc__GjT8n-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=1.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CO-I_zU5IWeLc__GjT8n-31" target="CO-I_zU5IWeLc__GjT8n-25">
+        <mxCell id="CO-I_zU5IWeLc__GjT8n-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=1.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="CO-I_zU5IWeLc__GjT8n-31" target="CO-I_zU5IWeLc__GjT8n-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-392.0000000000002" y="2297" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CO-I_zU5IWeLc__GjT8n-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CO-I_zU5IWeLc__GjT8n-31" target="CO-I_zU5IWeLc__GjT8n-26">
+        <mxCell id="CO-I_zU5IWeLc__GjT8n-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="CO-I_zU5IWeLc__GjT8n-31" target="CO-I_zU5IWeLc__GjT8n-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CO-I_zU5IWeLc__GjT8n-31" value="LLM&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(35, 47, 62), rgb(189, 199, 212));&quot;&gt;model&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bedrock;labelBackgroundColor=default;" vertex="1" parent="1">
