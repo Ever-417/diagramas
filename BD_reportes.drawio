@@ -96,9 +96,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dcQ_DTydsL90oxc5JTtG-18" value="&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;POST /api/reports&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dcQ_DTydsL90oxc5JTtG-8" vertex="1" connectable="0">
-          <mxGeometry x="0.2347" y="-1" relative="1" as="geometry">
-            <mxPoint x="33" y="-1" as="offset" />
+        <mxCell id="VRtVRILpDKUpoOxVLC-P-76" value="POST /api/reports" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dcQ_DTydsL90oxc5JTtG-8">
+          <mxGeometry x="0.3559" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dcQ_DTydsL90oxc5JTtG-2" value="Create template" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
