@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.1">
   <diagram name="Página-1" id="QzU7XLc7sjgZB1PIzfil">
-    <mxGraphModel dx="1314" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2151" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,8 +107,8 @@
         <mxCell id="VRtVRILpDKUpoOxVLC-P-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="dcQ_DTydsL90oxc5JTtG-3" target="VRtVRILpDKUpoOxVLC-P-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="1629" />
-              <mxPoint x="80" y="1440" />
+              <mxPoint x="130" y="1629" />
+              <mxPoint x="130" y="1440" />
               <mxPoint x="175" y="1440" />
             </Array>
           </mxGeometry>
@@ -237,7 +237,7 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VRtVRILpDKUpoOxVLC-P-1" value="Plantilla" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="900" width="195" height="180" as="geometry">
+          <mxGeometry x="1256" y="970" width="195" height="180" as="geometry">
             <mxRectangle x="290" y="670" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -257,7 +257,7 @@
           <mxGeometry y="150" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VRtVRILpDKUpoOxVLC-P-7" value="Paginas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="870" width="200" height="210" as="geometry">
+          <mxGeometry x="961" y="940" width="200" height="210" as="geometry">
             <mxRectangle x="160" y="810" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -385,8 +385,8 @@
         <mxCell id="VRtVRILpDKUpoOxVLC-P-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="VRtVRILpDKUpoOxVLC-P-64" target="VRtVRILpDKUpoOxVLC-P-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="1699" />
-              <mxPoint x="80" y="1440" />
+              <mxPoint x="130" y="1699" />
+              <mxPoint x="130" y="1440" />
               <mxPoint x="175" y="1440" />
             </Array>
           </mxGeometry>
@@ -424,6 +424,9 @@
           <mxGeometry x="-0.3629" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VRtVRILpDKUpoOxVLC-P-73" value="PUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1230" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
