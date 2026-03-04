@@ -25,11 +25,14 @@
         <mxCell id="BxCp_ST8JOiYIz0I-2S8-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pais" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="BxCp_ST8JOiYIz0I-2S8-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dato" vertex="1">
+        <mxCell id="BxCp_ST8JOiYIz0I-2S8-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="registro" vertex="1">
           <mxGeometry height="60" width="120" x="720" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="BxCp_ST8JOiYIz0I-2S8-43" edge="1" parent="1" source="BxCp_ST8JOiYIz0I-2S8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;startArrow=ERone;startFill=0;" target="BxCp_ST8JOiYIz0I-2S8-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BxCp_ST8JOiYIz0I-2S8-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="historico" vertex="1">
-          <mxGeometry height="60" width="120" x="580" y="120" as="geometry" />
+          <mxGeometry height="60" width="120" x="560" y="120" as="geometry" />
         </mxCell>
         <mxCell id="BxCp_ST8JOiYIz0I-2S8-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="plataforma" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="-80" as="geometry" />
