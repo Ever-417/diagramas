@@ -777,7 +777,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lpHxrY2FZaXluhNBSHdP-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.espacio" vertex="1">
-          <mxGeometry height="210" width="140" x="80" y="120" as="geometry" />
+          <mxGeometry height="210" width="140" x="161" y="200" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-6" parent="lpHxrY2FZaXluhNBSHdP-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -801,7 +801,7 @@
           <mxGeometry height="30" width="140" y="180" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-13" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.activo" vertex="1">
-          <mxGeometry height="270" width="140" x="330" y="120" as="geometry" />
+          <mxGeometry height="270" width="140" x="411" y="200" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-14" parent="lpHxrY2FZaXluhNBSHdP-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -828,7 +828,7 @@
           <mxGeometry height="30" width="140" y="240" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-20" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.tipo_activo" vertex="1">
-          <mxGeometry height="90" width="140" x="330" as="geometry" />
+          <mxGeometry height="90" width="140" x="411" y="80" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-21" parent="lpHxrY2FZaXluhNBSHdP-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -837,7 +837,7 @@
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-27" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.etiqueta" vertex="1">
-          <mxGeometry height="120" width="140" x="80" y="360" as="geometry" />
+          <mxGeometry height="120" width="140" x="161" y="440" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-28" parent="lpHxrY2FZaXluhNBSHdP-27" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -849,7 +849,7 @@
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-34" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.activo_etiqueta" vertex="1">
-          <mxGeometry height="120" width="140" x="330" y="417" as="geometry" />
+          <mxGeometry height="120" width="140" x="411" y="497" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-35" parent="lpHxrY2FZaXluhNBSHdP-34" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -863,8 +863,8 @@
         <mxCell id="lpHxrY2FZaXluhNBSHdP-40" edge="1" parent="1" source="lpHxrY2FZaXluhNBSHdP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;startArrow=ERoneToMany;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="lpHxrY2FZaXluhNBSHdP-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="195" />
-              <mxPoint x="300" y="45" />
+              <mxPoint x="381" y="275" />
+              <mxPoint x="381" y="125" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -878,7 +878,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-45" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.dashboard" vertex="1">
-          <mxGeometry height="150" width="140" x="601" y="20" as="geometry" />
+          <mxGeometry height="150" width="140" x="682" y="100" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-46" parent="lpHxrY2FZaXluhNBSHdP-45" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -893,7 +893,7 @@
           <mxGeometry height="30" width="140" y="120" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-48" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.plantilla" vertex="1">
-          <mxGeometry height="90" width="140" x="601" y="201" as="geometry" />
+          <mxGeometry height="90" width="140" x="682" y="281" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-49" parent="lpHxrY2FZaXluhNBSHdP-48" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -902,7 +902,7 @@
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-51" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.tabla_mantenimiento" vertex="1">
-          <mxGeometry height="120" width="240" x="551" y="417" as="geometry" />
+          <mxGeometry height="120" width="240" x="632" y="497" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-52" parent="lpHxrY2FZaXluhNBSHdP-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="240" y="30" as="geometry" />
@@ -914,7 +914,7 @@
           <mxGeometry height="30" width="240" y="90" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-59" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.pagina_plantilla" vertex="1">
-          <mxGeometry height="210" width="140" x="960" y="60" as="geometry" />
+          <mxGeometry height="210" width="140" x="1041" y="140" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-60" parent="lpHxrY2FZaXluhNBSHdP-59" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -935,7 +935,7 @@
           <mxGeometry height="30" width="140" y="180" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-62" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.registro_tabal_mantenimiento" vertex="1">
-          <mxGeometry height="120" width="240" x="920" y="360" as="geometry" />
+          <mxGeometry height="120" width="240" x="1001" y="440" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-63" parent="lpHxrY2FZaXluhNBSHdP-62" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="240" y="30" as="geometry" />
@@ -962,7 +962,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-78" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="reportes.tipo_dashboard" vertex="1">
-          <mxGeometry height="90" width="140" x="791" as="geometry" />
+          <mxGeometry height="90" width="140" x="872" y="80" as="geometry" />
         </mxCell>
         <mxCell id="lpHxrY2FZaXluhNBSHdP-79" parent="lpHxrY2FZaXluhNBSHdP-78" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
