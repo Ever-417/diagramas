@@ -1178,6 +1178,88 @@
         <mxCell id="N5agQPpXW7Y8lZBeIXHs-16" edge="1" parent="1" source="N5agQPpXW7Y8lZBeIXHs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="N5agQPpXW7Y8lZBeIXHs-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-24" edge="1" parent="1" source="N5agQPpXW7Y8lZBeIXHs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="N5agQPpXW7Y8lZBeIXHs-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="470" />
+              <mxPoint x="220" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-25" edge="1" parent="1" source="N5agQPpXW7Y8lZBeIXHs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="N5agQPpXW7Y8lZBeIXHs-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="470" />
+              <mxPoint x="210" y="625" />
+            </Array>
+            <mxPoint x="270" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-18" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-26" edge="1" parent="1" source="N5agQPpXW7Y8lZBeIXHs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#f8cecc;strokeColor=#b85450;" target="N5agQPpXW7Y8lZBeIXHs-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="585" />
+              <mxPoint x="170" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-27" edge="1" parent="1" source="N5agQPpXW7Y8lZBeIXHs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#f8cecc;strokeColor=#b85450;" target="N5agQPpXW7Y8lZBeIXHs-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="585" />
+              <mxPoint x="170" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Editor" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-28" edge="1" parent="1" source="N5agQPpXW7Y8lZBeIXHs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;" target="N5agQPpXW7Y8lZBeIXHs-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="690" />
+              <mxPoint x="190" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-29" edge="1" parent="1" source="N5agQPpXW7Y8lZBeIXHs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#e1d5e7;strokeColor=#9673a6;" target="N5agQPpXW7Y8lZBeIXHs-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="690" />
+              <mxPoint x="190" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-20" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Viewer" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-23" edge="1" parent="1" source="N5agQPpXW7Y8lZBeIXHs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N5agQPpXW7Y8lZBeIXHs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-21" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" value="Activo" vertex="1">
+          <mxGeometry height="64" width="70" x="320" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-22" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;" value="espacio" vertex="1">
+          <mxGeometry height="71" width="78" x="280" y="589" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1- si se crea un activo, debe asignarse como admin al usuario que lo creo para que tenga control sobre el" vertex="1">
+          <mxGeometry height="120" width="230" x="520" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3- Si se crea un espacio también debe asignase como admin a la persona que lo creo" vertex="1">
+          <mxGeometry height="80" width="240" x="520" y="589" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" value="Jerarquía" vertex="1">
+          <mxGeometry height="30" width="190" x="290" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mayor permiso que tenga , si tiene admin en el espacio, puede administrar todos los activos y espacios. (lo que pertenezca al mismo)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Si tiene viewer en el espacio pero le otorgan admin o editor a un recurso que se encuentra en el espacio, puede editar solo el recurso donde le dieron el permiso&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Si es al rebes lo mismo, si es viewer en la plantilla, pero le dan acceso admin o editor en el espacio, puede modificar todos los activos y espacios del espacio padre y por ende la plantilla donde solo es editor&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="400" x="200" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="N5agQPpXW7Y8lZBeIXHs-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2- Las rutas de recursos (activos, plantillas, dashboards, tablas mantenimiento, espacios) deben controlar los accesos, según si están asignados. Así como se hace en la ruta de listar activos" vertex="1">
+          <mxGeometry height="80" width="250" x="520" y="500" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
